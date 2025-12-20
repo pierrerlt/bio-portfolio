@@ -7,7 +7,7 @@ It features smooth intro animations, interactive cursor effects,
 and clean section-based navigation.
 </p>
 
-<img src="assets/preview.png" alt="Portfolio Preview" width="100%" />
+<img src="https://i.ibb.co/1t4CzSk3/image.png" alt="Portfolio Preview" width="100%" />
 
 <h3>✨ Features</h3>
 <ul>
@@ -52,7 +52,7 @@ npm start
 The app will run at <strong>http://localhost:3000</strong>
 </p>
 
-<h3>🏗️ Build for Production</h3>
+<h3>Build for Production</h3>
 
 <pre>
 npm run build
