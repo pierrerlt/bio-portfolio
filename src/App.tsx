@@ -4,7 +4,6 @@ import Navbar from './components/Navbar';
 import IntroOverlay from './components/IntroOverlay';
 import Hero from './components/Hero';
 import AboutMe from './components/AboutMe';
-import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Timeline from './components/Timeline';
 import Contact from './components/Contact';
