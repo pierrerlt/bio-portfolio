@@ -93,7 +93,7 @@ const AboutMe: React.FC = () => {
         <h2 className="section-title">About Me</h2>
         <div className="about-me-content">
           <div className="about-me-avatar">
-            <img src="https://cdn.discordapp.com/avatars/403985631522586625/avatar.png" alt="Profile Avatar" />
+            <img src="https://cdn.discordapp.com/avatars/403985631522586625/0aee4f39065e21a907cf478b8b38555b.webp?size=1024" alt="Profile Avatar" />
           </div>
           <div className="about-me-text">
             <h3>Hi, I'm Pierre Rollet</h3>
